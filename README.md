@@ -1,4 +1,4 @@
-# LED Blinking with Arduino Nano
+# LED  with Arduino Nano
 
 #### Project Overview
 
