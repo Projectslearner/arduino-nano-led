@@ -1,30 +1,30 @@
-# LED  with Arduino Nano
+# External LED  with Arduino Nano
 
 #### Project Overview
 
-This simple project demonstrates how to use an Arduino Nano to blink an LED on and off at one-second intervals. This project is a fundamental exercise to familiarize yourself with basic Arduino programming and circuit building.
+This simple project demonstrates how to use an Arduino Nano to blink an External LED on and off at one-second intervals. This project is a fundamental exercise to familiarize yourself with basic Arduino programming and circuit building.
 
 #### Components Needed and Block Diagram
 
 1. **Arduino Nano**
-2. **LED**
+2. ** LED**
 3. **220Ω Resistor**
 4. **Breadboard and Jumper Wires**
 
 #### Block Diagram
 
-![LED Blinking Circuit Diagram](https://example.com/led-blinking-circuit-diagram)
+![External LED Blinking Circuit Diagram](https://example.com/LED-blinking-circuit-diagram)
 
 #### Circuit Setup
 
-1. **Arduino Nano to LED:**
-   - Connect the anode (long leg) of the LED to digital pin 13 on the Arduino Nano through a 220Ω resistor.
-   - Connect the cathode (short leg) of the LED to the GND pin on the Arduino Nano.
+1. **Arduino Nano to External LED:**
+   - Connect the anode (long leg) of the External LED to digital pin 13 on the Arduino Nano through a 220Ω resistor.
+   - Connect the cathode (short leg) of the External LED to the GND pin on the Arduino Nano.
 
 #### Instructions
 
 1. **Circuit Setup:**
-   - Connect the LED and resistor to the Arduino Nano as described above and shown in the circuit diagram.
+   - Connect the External LED and resistor to the Arduino Nano as described above and shown in the circuit diagram.
 
 2. **Code Upload:**
    - Connect your Arduino Nano to your computer using a USB cable.
@@ -33,17 +33,17 @@ This simple project demonstrates how to use an Arduino Nano to blink an LED on a
    - Upload the code to the Arduino Nano.
 
 3. **Testing:**
-   - Once the code is uploaded, observe the LED blinking on and off at one-second intervals.
+   - Once the code is uploaded, observe the External LED blinking on and off at one-second intervals.
 
 #### Applications
 
-- **Indicator Lights:** Use blinking LEDs as indicators for various states in projects.
+- **Indicator Lights:** Use blinking External LEDs as indicators for various states in projects.
 - **Learning Tool:** This project is perfect for beginners to understand basic Arduino programming and circuit building.
 
 #### Notes
 
-- Ensure correct orientation and connection of the LED and resistor to prevent damage.
-- Experiment with different delay values to change the blinking frequency of the LED.
+- Ensure correct orientation and connection of the External LED and resistor to prevent damage.
+- Experiment with different delay values to change the blinking frequency of the External LED.
 
 ---
 
